@@ -4,4 +4,5 @@ do{
     console.log("hello");
 }while(i <= 2)
 
-    console.log('hello');
+// Output: hello
+//new commit
